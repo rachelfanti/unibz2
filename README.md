@@ -1,2 +1,2 @@
-# unibz2
+# unibz
 unibz assignments
